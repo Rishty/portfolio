@@ -7,6 +7,7 @@ import Products from './views/products';
 import Contact from './views/Contact';
 import Footer from './components/Footer';
 import './App.css'
+import 'bootstrap/dist/css/bootstrap.min.css'
 function App() {
   return (
     <>
