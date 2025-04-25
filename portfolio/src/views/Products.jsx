@@ -15,9 +15,13 @@ function Products() {
 
   return (
     <>
-     {data.map((item,index)=>{
+    <div className="container">
+    <div className="row">
+    {data.map((item,index)=>{
       return <Card key={index} data={item}/>
      })} 
+    </div>
+    </div>
     </>
   )
 }
