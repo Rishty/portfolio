@@ -8,6 +8,9 @@ import Contact from './views/Contact';
 import Footer from './components/Footer';
 import './App.css'
 import 'bootstrap/dist/css/bootstrap.min.css'
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+AOS.init();
 function App() {
   return (
     <>

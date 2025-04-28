@@ -9,24 +9,14 @@ function Skills() {
       bgColor: "#f3e8ff",
       link: "/services/social-media-marketing",
     },
-    {
-      title: "Google Ads",
-      description: "Drive targeted traffic and maximize ROI with tailored Google ad campaigns.",
-      bgColor: "#e0f7ff",
-      link: "/services/google-ads",
-    },
+   
     {
       title: "Meta Ads",
       description: "Engage your audience effectively with powerful Meta ad solutions.",
       bgColor: "#fff8dc",
       link: "/services/meta-ads",
     },
-    {
-      title: "Brand Promotion",
-      description: "Elevate your brand with impactful promotional strategies.",
-      bgColor: "#f3e8ff",
-      link: "/services/brand-promotion",
-    },
+    
     {
       title: "Website Development",
       description: "Build modern, user-friendly websites tailored to your business needs.",

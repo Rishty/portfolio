@@ -59,6 +59,7 @@ const Footer = () => {
       <div className="footer-bottom">
         <p>© {new Date().getFullYear()} Rani | All rights reserved</p>
       </div>
+      <a href="#banner">click</a>
     </footer>
   );
 };
