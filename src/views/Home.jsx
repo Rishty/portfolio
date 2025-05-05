@@ -1,5 +1,5 @@
 import React from 'react'
-import { UNSAFE_createClientRoutes, useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import Skills from '../components/Skills';
 import Slider from '../components/Slider'
 import Type from '../components/Type'

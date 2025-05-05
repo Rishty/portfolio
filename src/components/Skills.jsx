@@ -9,8 +9,8 @@ function Skills() {
     <div className="skills-container">
       {skills.map((skill, index) => (
       
-        <Link to={`/skilldetails/${skill.id}`}>
-         <div key={index} className="skill-card" style={{ backgroundColor: skill.bgColor }}>
+        <Link to={`/skilldetails/${skill.id}`} key={index}>
+         <div className="skill-card" style={{ backgroundColor: skill.bgColor }}>
           <h3>{skill.title}</h3>
           <p>{skill.description}</p>
         </div>
