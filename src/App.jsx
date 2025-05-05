@@ -10,6 +10,7 @@ import './App.css'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import AOS from 'aos';
 import 'aos/dist/aos.css';
+import SkillDetails from './views/SkillDetails';
 AOS.init();
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
           <Route path='/about' element={<About/>}/>
           <Route path='/products' element={<Products/>}/>
           <Route path='/contact' element={<Contact/>}/>
+          <Route path='/skilldetails/:id' element={<SkillDetails/>}/>
          
         </Routes>
        

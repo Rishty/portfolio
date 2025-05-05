@@ -1,0 +1,58 @@
+[
+    {
+        "id":1,
+      "title": "Social Media Marketing",
+      "description": "Boost your online presence with expert social media strategies.",
+      "bgColor": "#f3e8ff",
+      "details":"hello Rani 1",
+      "img":"https://images.unsplash.com/photo-1575936123452-b67c3203c357?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D"
+
+    },
+
+    {
+        "id":2,
+      "title": "Meta Ads",
+      "description": "Engage your audience effectively with powerful Meta ad solutions.",
+      "bgColor": "#fff8dc",
+      "details":"hello Rani 2",
+      "img":"https://images.unsplash.com/photo-1575936123452-b67c3203c357?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D"
+
+    },
+
+    {
+        "id":3,
+      "title": "Website Development",
+      "description": "Build modern, user-friendly websites tailored to your business needs.",
+      "bgColor": "#e0f7ff",
+      "details":"hello Rani 3",
+      "img":"https://images.unsplash.com/photo-1575936123452-b67c3203c357?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D"
+
+    },
+    {
+        "id":4,
+      "title": "Video Creators",
+      "description": "Captivate your audience with high-quality, engaging video content.",
+      "bgColor": "#fff8dc",
+      "details":"hello Rani 4",
+      "img":"https://images.unsplash.com/photo-1575936123452-b67c3203c357?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D"
+
+    },
+    {
+        "id":5,
+      "title": "Google My Business Listing",
+      "description": "Make your business easily discoverable with accurate GMB listings.",
+      "bgColor": "#e0f7ff",
+      "details":"hello Rani 1",
+      "img":"https://images.unsplash.com/photo-1575936123452-b67c3203c357?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D"
+
+    },
+    {
+        "id":6,
+      "title": "Lead Generation",
+      "description": "Generate quality leads to grow your business and increase sales.",
+      "bgColor": "#f3e8ff",
+      "details":"hello Rani 5",
+      "img":"https://images.unsplash.com/photo-1575936123452-b67c3203c357?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D"
+
+    }
+  ]
