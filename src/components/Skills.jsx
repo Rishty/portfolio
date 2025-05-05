@@ -38,7 +38,7 @@ function Skills() {
     {
       title: "Lead Generation",
       description: "Generate quality leads to grow your business and increase sales.",
-      bgColor: "#fff8dc",
+      bgColor: "#f3e8ff",
       link: "/services/lead-generation",
     },
   ];

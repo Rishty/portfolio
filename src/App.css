@@ -5,6 +5,7 @@
 }
 
 
+
 .nav{
     display: flex;
     justify-content: space-around;
@@ -146,4 +147,13 @@
     font-size: 0.95rem;
     line-height: 1.4;
   }
+  .carousel-container {
+    width: 90%;
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
   
+ 

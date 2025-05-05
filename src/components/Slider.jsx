@@ -4,11 +4,11 @@ import { Autoplay } from "swiper/modules";
 import "swiper/css";
 
 const logos = [
-  { id: 1, src: "/image/dp.png" },
-  { id: 2, src: "/image/dp.png" },
-  { id: 3, src: "/image/dp.png" },
-  { id: 4, src: "/image/dp.png" },
-  { id: 5, src: "/image/dp.png" },
+
+  { id: 2, src: "/image/ayusea.png" },
+  { id: 3, src: "/image/sanjay.png" },
+  { id: 4, src: "/image/HealthyFood.jpg" },
+  { id: 5, src: "/image/Wisdom.jpeg" },
 ];
 
 const LogoCarousel = () => {
@@ -16,7 +16,7 @@ const LogoCarousel = () => {
 
   return (
     <div
-      style={{ width: "1000px", margin: "0 auto" }}
+      style={{ width: "100%", margin: "0 auto" }}
       onMouseEnter={() => swiperRef.current?.autoplay.stop()}
       onMouseLeave={() => swiperRef.current?.autoplay.start()}
     >
@@ -37,8 +37,8 @@ const LogoCarousel = () => {
               src={logo.src}
               alt={`Logo ${logo.id}`}
               style={{
-                width: "100px",
-                height: "50px",
+                width: "500px",
+                height: "200px",
                 objectFit: "contain",
                 margin: "auto",
               }}
