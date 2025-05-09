@@ -5,9 +5,9 @@ import skill  from '../../skill.json';
 function SkillDetails() {
     const {id}=useParams();
     const dd=skill.find((item,index)=>{
-        return item.id === id;
+        return item.id == Number(id);
     })
-
+   
     if(!dd) return;
   return (
     <div>
